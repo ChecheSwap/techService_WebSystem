@@ -2,7 +2,7 @@
   $db_hostname = "localhost";
   $db_name = "setweb";
   $db_usr = "root";
-  $db_pass = "master33";
+  $db_pass = "YOUR_PASSWORD";
 
   $event_INICIO = "INICIODESESION";
   $event_CIERRE = "CIERREDESESION";
