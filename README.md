@@ -1,5 +1,6 @@
 # techService_WebSystem
 Technical Service web system project using PHP, Java Script, HTML, CSS -> Bootstrap 3 Library and MySQL Database. Lanzado bajo licencia MIT.
+Por: Jesús José Navarrete Baca @Checheswap 12/06/2019
 ![1](https://user-images.githubusercontent.com/21239660/59398410-6ea7ce00-8d4d-11e9-81e7-dca1bf80c556.png)
 ![2](https://user-images.githubusercontent.com/21239660/59398411-6f406480-8d4d-11e9-917a-c7317f256852.png)
 ![3](https://user-images.githubusercontent.com/21239660/59398414-6f406480-8d4d-11e9-9697-edc8e072bd3f.png)
